@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <p align="center">
-  <img width="600" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 <p style="text-align:center;"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Logo"></p>
 <img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
