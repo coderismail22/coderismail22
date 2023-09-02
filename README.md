@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="center">Certified Professional Web Developer || MERN Stack</h3>
 
 - 🌱 I’m currently learning **NextJS,Redux**
