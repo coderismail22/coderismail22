@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
+<p style="text-align:center;"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Logo"></p>
 <img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="center">Certified Professional Web Developer || MERN Stack</h3>
 
