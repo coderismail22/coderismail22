@@ -4,9 +4,9 @@
 </p>
 <h3 align="center">Certified Professional Web Developer || MERN Stack</h3>
 
-- 🌱 I’m currently learning **NextJS,Redux**
+- 🌱 I’m currently learning **NextJS, Redux**
 
-- 👨‍💻 All of my projects are available at [https://64ebe16113ef6f34b6f4ba59--delightful-nasturtium-0cbe76.netlify.app/](https://64ebe16113ef6f34b6f4ba59--delightful-nasturtium-0cbe76.netlify.app/)
+- 👨‍💻 All of my projects are available at https://coderismail.netlify.app
 
 - 📫 How to reach me **ismailmdhossain2@gmail.com**
 
