@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS, Redux**
 
-- 👨‍💻 All of my projects are available at https://coderismail.netlify.app
+- 👨‍💻 All of my projects are available at https://ismailcodes.netlify.app
 
 - 📫 How to reach me **ismailmdhossain2@gmail.com**
 
